@@ -1,0 +1,21 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "slots": {
+            "hotbar.8": {
+                "items": "#mend:enchantable/all",
+                "predicates": {
+                    "minecraft:enchantments": [
+                        {
+                            "enchantments": "minecraft:mending",
+                            "levels": {
+                                "min": 1
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

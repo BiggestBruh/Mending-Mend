@@ -1,0 +1,44 @@
+execute if predicate mend:inventory/0 run item modify entity @s inventory.0 mend:reset_anvil
+execute if predicate mend:inventory/1 run item modify entity @s inventory.1 mend:reset_anvil
+execute if predicate mend:inventory/2 run item modify entity @s inventory.2 mend:reset_anvil
+execute if predicate mend:inventory/3 run item modify entity @s inventory.3 mend:reset_anvil
+execute if predicate mend:inventory/4 run item modify entity @s inventory.4 mend:reset_anvil
+execute if predicate mend:inventory/5 run item modify entity @s inventory.5 mend:reset_anvil
+execute if predicate mend:inventory/6 run item modify entity @s inventory.6 mend:reset_anvil
+execute if predicate mend:inventory/7 run item modify entity @s inventory.7 mend:reset_anvil
+execute if predicate mend:inventory/8 run item modify entity @s inventory.8 mend:reset_anvil
+execute if predicate mend:inventory/9 run item modify entity @s inventory.9 mend:reset_anvil
+execute if predicate mend:inventory/10 run item modify entity @s inventory.10 mend:reset_anvil
+execute if predicate mend:inventory/11 run item modify entity @s inventory.11 mend:reset_anvil
+execute if predicate mend:inventory/12 run item modify entity @s inventory.12 mend:reset_anvil
+execute if predicate mend:inventory/13 run item modify entity @s inventory.13 mend:reset_anvil
+execute if predicate mend:inventory/14 run item modify entity @s inventory.14 mend:reset_anvil
+execute if predicate mend:inventory/15 run item modify entity @s inventory.15 mend:reset_anvil
+execute if predicate mend:inventory/16 run item modify entity @s inventory.16 mend:reset_anvil
+execute if predicate mend:inventory/17 run item modify entity @s inventory.17 mend:reset_anvil
+execute if predicate mend:inventory/18 run item modify entity @s inventory.18 mend:reset_anvil
+execute if predicate mend:inventory/19 run item modify entity @s inventory.19 mend:reset_anvil
+execute if predicate mend:inventory/20 run item modify entity @s inventory.20 mend:reset_anvil
+execute if predicate mend:inventory/21 run item modify entity @s inventory.21 mend:reset_anvil
+execute if predicate mend:inventory/22 run item modify entity @s inventory.22 mend:reset_anvil
+execute if predicate mend:inventory/23 run item modify entity @s inventory.23 mend:reset_anvil
+execute if predicate mend:inventory/24 run item modify entity @s inventory.24 mend:reset_anvil
+execute if predicate mend:inventory/25 run item modify entity @s inventory.25 mend:reset_anvil
+execute if predicate mend:inventory/26 run item modify entity @s inventory.26 mend:reset_anvil
+
+execute if predicate mend:hotbar/0 run item modify entity @s hotbar.0 mend:reset_anvil
+execute if predicate mend:hotbar/1 run item modify entity @s hotbar.1 mend:reset_anvil
+execute if predicate mend:hotbar/2 run item modify entity @s hotbar.2 mend:reset_anvil
+execute if predicate mend:hotbar/3 run item modify entity @s hotbar.3 mend:reset_anvil
+execute if predicate mend:hotbar/4 run item modify entity @s hotbar.4 mend:reset_anvil
+execute if predicate mend:hotbar/5 run item modify entity @s hotbar.5 mend:reset_anvil
+execute if predicate mend:hotbar/6 run item modify entity @s hotbar.6 mend:reset_anvil
+execute if predicate mend:hotbar/7 run item modify entity @s hotbar.7 mend:reset_anvil
+execute if predicate mend:hotbar/8 run item modify entity @s hotbar.8 mend:reset_anvil
+
+execute if predicate mend:head run item modify entity @s armor.head mend:reset_anvil
+execute if predicate mend:chest run item modify entity @s armor.chest mend:reset_anvil
+execute if predicate mend:legs run item modify entity @s armor.legs mend:reset_anvil
+execute if predicate mend:feet run item modify entity @s armor.feet mend:reset_anvil
+
+execute if predicate mend:offhand run item modify entity @s weapon.offhand mend:reset_anvil

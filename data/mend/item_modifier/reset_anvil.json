@@ -1,0 +1,14 @@
+[
+    {
+        "function": "minecraft:set_enchantments",
+        "enchantments": {
+            "minecraft:mending": 0
+        }
+    },
+    {
+        "function": "minecraft:set_components",
+        "components": {
+            "!minecraft:repair_cost": {}
+        }
+    }
+]

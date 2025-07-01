@@ -1,0 +1,11 @@
+{
+    "values": [
+        "#minecraft:enchantable/durability",
+        "#minecraft:skulls",
+        "minecraft:carved_pumpkin",
+        "#mend:animal_armor",
+        "minecraft:saddle",
+        "#minecraft:harnesses",
+        "#mend:enchantable/trinkets"
+    ]
+}

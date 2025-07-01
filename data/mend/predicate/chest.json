@@ -1,0 +1,21 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "slots": {
+            "armor.chest": {
+                "items": "#mend:enchantable/all",
+                "predicates": {
+                    "minecraft:enchantments": [
+                        {
+                            "enchantments": "minecraft:mending",
+                            "levels": {
+                                "min": 1
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
